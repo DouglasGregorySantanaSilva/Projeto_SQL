@@ -1,3 +1,3 @@
 SELECT *
 from company_dim
-limit 11
+limit 12
