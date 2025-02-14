@@ -1,4 +1,4 @@
--- Esta consulta retorna as habilidades mais bem remuneradas para a posição de analista de dados
+-- Esta consulta retorna as habilidades mais bem remuneradas para a posição de Analista de Dados
 
 SELECT jpf.job_id, cd.name as Company_Name, jpf.job_title, STRING_AGG(sd.skills, ', ') as Skills, jpf.job_location,  jpf.job_via,  jpf.job_schedule_type,  jpf.search_location,  jpf.job_posted_date,  jpf.salary_year_avg
 FROM job_postings_fact as jpf

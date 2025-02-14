@@ -6,5 +6,5 @@ INNER JOIN skills_job_dim AS sjd ON sjd.skill_id = sd.skill_id
 INNER JOIN job_postings_fact AS jpf ON jpf.job_id = sjd.job_id
 WHERE jpf.job_title LIKE '%Data Analyst%' AND jpf.salary_year_avg IS NOT NULL
 GROUP BY sd.skills
-ORDER BY COUNT(skills) desc
+ORDER BY Incidence DESC
 LIMIT 10;
