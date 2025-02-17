@@ -1,9 +1,39 @@
-# Introdução
-    Bem-vindo ao repositório deste projeto de análise de dados sobre o mercado de trabalho para Analistas de Dados, utilizando exclusivamente SQL! 🚀
+# Análise SQL do Mercado de Trabalho para Analistas de Dados
 
-    🔍 Sobre o Projeto:
-    Este projeto tem como objetivo explorar informações sobre empregos na área de dados, com foco no cargo de Analista de Dados, identificando as habilidades mais valorizadas e os empregos mais bem remunerados.
+Bem-vindo ao repositório deste projeto de análise de dados sobre o mercado de trabalho para Analistas de Dados, utilizando exclusivamente SQL!
 
-    A análise foi realizada com consultas SQL para manipular, processar e extrair insights dos dados, respondendo questões relevantes sobre a demanda do mercado.
+## Sobre o Projeto:
 
-    [Acesse as consultas realizadas nesse projeto:](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL)
+Este projeto tem como objetivo explorar tendências do mercado de trabalho para Analistas de Dados, com foco em identificar empregos mais bem remunerados, habilidades mais demandadas e quais competências oferecem melhores oportunidades salariais.
+
+Todas as análises foram realizadas utilizando consultas SQL para processar, manipular e extrair insights a partir dos dados de vagas de emprego.
+
+## Tecnologias Utilizadas:
+
+* PostgreSQL (para armazenamento e manipulação de dados)
+* SQL (para extração, transformação e análise de dados)
+* Git & GitHub (para versionamento e compartilhamento do projeto)
+* VS Code (para desenvolvimento e execução das consultas SQL)
+
+## Principais Análises
+* Empregos Mais Bem Remunerados
+* Habilidades em Demanda
+* Habilidades Isoladas Mais Bem Remuneradas
+* Habilidades Mais Bem Remuneradas por Vaga
+* Habilidades Otimizadas
+
+## Como Usar
+
+Clone este repositório:
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Navegue até a pasta com as consultas SQL:
+md
+Copiar
+Editar
+[Acesse as consultas realizadas nesse projeto](Projeto_SQL/)
+Execute as consultas no PostgreSQL utilizando VS Code ou outro ambiente compatível.
+Este projeto fornece informações valiosas para quem deseja entender quais habilidades são mais valorizadas e quais oportunidades oferecem melhores salários na área de dados.
+
