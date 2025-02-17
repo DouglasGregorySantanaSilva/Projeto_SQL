@@ -6,4 +6,4 @@
 
     A análise foi realizada com consultas SQL para manipular, processar e extrair insights dos dados, respondendo questões relevantes sobre a demanda do mercado.
 
-    [Acesse as consultas realizadas nesse projeto:](Projeto_SQL/)
+    [Acesse as consultas realizadas nesse projeto:](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL/tree/main/Projeto_SQL)
