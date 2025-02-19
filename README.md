@@ -20,6 +20,13 @@ Todas as análises foram realizadas utilizando consultas SQL para processar, man
 
 ### Empregos Mais Bem Remunerados
 
+![Image](https://github.com/user-attachments/assets/481f711b-c10a-4319-89bf-c3488b62d53d)
+
+Com esse dashboard sobre os 10 empregos mais bem remunerados é possível extrair algumas ideias, tais como:
+
+* A língua principal desejada é o Inglês
+* Os Estados Unidos lidera em vagas de topo no setores de tecnologia, saúde e comunicação
+* A Índia se destaca na busca por mão de obra qualificada para o setor da saúde, remunerando em aproximadamente 100% a mais que a média analisada
 
 
 * Habilidades em Demanda
