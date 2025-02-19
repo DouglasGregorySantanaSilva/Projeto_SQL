@@ -1,22 +1,27 @@
 # Análise SQL do Mercado de Trabalho para Analistas de Dados
 
-Bem-vindo ao repositório deste projeto de análise de dados sobre o mercado de trabalho para Analistas de Dados, utilizando exclusivamente SQL!
+Bem-vindo ao repositório deste projeto de análise de dados sobre o mercado de trabalho para Analistas de Dados em 2023
 
 ## Sobre o Projeto:
 
 Este projeto tem como objetivo explorar tendências do mercado de trabalho para Analistas de Dados, com foco em identificar empregos mais bem remunerados, habilidades mais demandadas e quais competências oferecem melhores oportunidades salariais.
 
-Todas as análises foram realizadas utilizando consultas SQL para processar, manipular e extrair insights a partir dos dados de vagas de emprego.
+Todas as análises foram realizadas utilizando consultas SQL para processar, manipular e extrair insights a partir dos dados de vagas de emprego. Posteriormente os resultados foram utilizados para realizar uma transformação gráfica, facilitando a visualização
 
 ## Tecnologias Utilizadas:
 
-* PostgreSQL (para armazenamento e manipulação de dados)
-* SQL (para extração, transformação e análise de dados)
-* Git & GitHub (para versionamento e compartilhamento do projeto)
-* VS Code (para desenvolvimento e execução das consultas SQL)
+* PostgreSQL (Para armazenamento e manipulação de dados)
+* SQL (Para extração, transformação e análise de dados)
+* Git & GitHub (Para versionamento e compartilhamento do projeto)
+* VS Code (Para desenvolvimento e execução das consultas SQL)
+* Power BI (Para criar visualização para os dados)
 
 ## Principais Análises
-* Empregos Mais Bem Remunerados
+
+### Empregos Mais Bem Remunerados
+
+
+
 * Habilidades em Demanda
 * Habilidades Isoladas Mais Bem Remuneradas
 * Habilidades Mais Bem Remuneradas por Vaga
