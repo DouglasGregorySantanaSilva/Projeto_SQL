@@ -51,7 +51,9 @@ De acordo com as informações presentes no gráfico, é possível inferir que:
 
 ### Habilidades Mais Bem Remuneradas por Vaga
 
+![Image](https://github.com/user-attachments/assets/0f4acaea-610b-4865-a6f1-2d5a4f7d532e)
 
+* 
 
 * Habilidades Otimizadas
 
