@@ -41,7 +41,7 @@ Para facilitar o entendimento acerca da distribuição da incidência das habili
 
 ### Habilidades Isoladas Mais Bem Remuneradas
 
-![Image](https://github.com/user-attachments/assets/a2bbc91c-1106-40d2-87a5-f676835e848b)
+![Image](https://github.com/user-attachments/assets/d4b92d21-4e72-47d5-8053-68629479199e)
 
 De acordo com as informações presentes no gráfico, é possível inferir que:
 
@@ -50,6 +50,8 @@ De acordo com as informações presentes no gráfico, é possível inferir que:
 * Golang aparece como uma das habilidade smais bem remuneradas devido ao fato de ser amplamente utilizada em ambientes em nuvem. Sua escalabilidade e desempenho são características essencias ao se trabalhar com dados
 
 ### Habilidades Mais Bem Remuneradas por Vaga
+
+
 
 * Habilidades Otimizadas
 
