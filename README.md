@@ -29,23 +29,42 @@ Com esse dashboard sobre os 10 empregos mais bem remunerados é possível extrai
 * A Índia se destaca na busca por mão de obra qualificada para o setor da saúde, remunerando em aproximadamente 100% a mais que a média analisada
 
 
-* Habilidades em Demanda
-* Habilidades Isoladas Mais Bem Remuneradas
-* Habilidades Mais Bem Remuneradas por Vaga
+### Habilidades em Demanda
+
+![Image](https://github.com/user-attachments/assets/521d237f-06e8-4b8f-99c2-6b29021c2754)
+
+Para facilitar o entendimento acerca da distribuição da incidência das habilidades requisitadas pelas vagas foi elaborado este gráfico. Com base nele é possível identificar algumas tendências:
+
+* As linguagens de programação estão em crescimento de popularidade, devido ao suporte e otimização de tempo para manipulação, visualização e transformação de dados.
+* As ferramentas de visualização mais populares são Power BI e Tableau, totalizando 68 % do uso dessa demanda
+* Embora Excel não seja um gerenciador de banco de dados continua sendo uma excelente forma de organizar dados estruturadas para empresas de pequeno e médio porte
+
+### Habilidades Isoladas Mais Bem Remuneradas
+
+![Image](https://github.com/user-attachments/assets/a2bbc91c-1106-40d2-87a5-f676835e848b)
+
+De acordo com as informações presentes no gráfico, é possível inferir que:
+
+* Ferramentas como Couchbase, DynamoDB e VMware (banco de dados e computação em nuvem) estão em alta demanda e especialização, devido à remuneração associada
+* A presença de Yarn, Dplyr e fastApi indicam a necessidade de maior eficiência ao se lidar com dados, especialmente em ambientes em nuvem
+* Golang aparece como uma das habilidade smais bem remuneradas devido ao fato de ser amplamente utilizada em ambientes em nuvem. Sua escalabilidade e desempenho são características essencias ao se trabalhar com dados
+
+### Habilidades Mais Bem Remuneradas por Vaga
+
 * Habilidades Otimizadas
 
 ## Como Usar
 
 Clone este repositório:
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Navegue até a pasta com as consultas SQL:
-md
-Copiar
-Editar
-[Acesse as consultas realizadas nesse projeto](Projeto_SQL/)
-Execute as consultas no PostgreSQL utilizando VS Code ou outro ambiente compatível.
-Este projeto fornece informações valiosas para quem deseja entender quais habilidades são mais valorizadas e quais oportunidades oferecem melhores salários na área de dados.
+* bash
+* Copiar
+* Editar
+* git clone https://github.com/seu-usuario/nome-do-repositorio.git
+* Navegue até a pasta com as consultas SQL:
+* md
+* Copiar
+* Editar
+* [Acesse as consultas realizadas nesse projeto](Projeto_SQL/)
+* Execute as consultas no PostgreSQL utilizando VS Code ou outro ambiente compatível.
+* Este projeto fornece informações valiosas para quem deseja entender quais habilidades são mais valorizadas e quais oportunidades oferecem melhores salários na área de dados.
 
