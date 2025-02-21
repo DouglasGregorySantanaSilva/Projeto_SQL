@@ -20,7 +20,7 @@ Todas as análises foram realizadas utilizando consultas SQL para processar, man
 
 ### Empregos Mais Bem Remunerados
 
-![Image](https://github.com/user-attachments/assets/481f711b-c10a-4319-89bf-c3488b62d53d)
+[![Image](https://github.com/user-attachments/assets/481f711b-c10a-4319-89bf-c3488b62d53d)](https://app.powerbi.com/groups/me/reports/201b92ee-875b-4244-bd51-4f844d301361/0fa1c98e5c6c8110465e?experience=power-bi)
 
 Com esse dashboard sobre os 10 empregos mais bem remunerados é possível extrair algumas ideias, tais como:
 
