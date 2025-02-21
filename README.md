@@ -20,9 +20,7 @@ Todas as análises foram realizadas utilizando consultas SQL para processar, man
 
 ### Empregos Mais Bem Remunerados
 
-## 📊 Relatório Power BI
-
-[Acesse o relatório interativo no Power BI](https://app.powerbi.com/groups/me/reports/201b92ee-875b-4244-bd51-4f844d301361/0fa1c98e5c6c8110465e?experience=power-bi)
+[Acesse o relatório no Power BI](https://app.powerbi.com/groups/me/reports/201b92ee-875b-4244-bd51-4f844d301361/0fa1c98e5c6c8110465e?experience=power-bi)
 
 Com esse dashboard sobre os 10 empregos mais bem remunerados é possível extrair algumas ideias, tais como:
 
@@ -30,10 +28,9 @@ Com esse dashboard sobre os 10 empregos mais bem remunerados é possível extrai
 * Os Estados Unidos lidera em vagas de topo no setores de tecnologia, saúde e comunicação
 * A Índia se destaca na busca por mão de obra qualificada para o setor da saúde, remunerando em aproximadamente 100% a mais que a média analisada
 
-
 ### Habilidades em Demanda
 
-![Image](https://github.com/user-attachments/assets/521d237f-06e8-4b8f-99c2-6b29021c2754)
+[Acesse o relatório no Power BI](https://app.powerbi.com/groups/me/reports/c700984f-9d7d-4a9a-b87a-c63218afeb99/579eca483b7218ca0bab?experience=power-bi)
 
 Para facilitar o entendimento acerca da distribuição da incidência das habilidades requisitadas pelas vagas foi elaborado este gráfico. Com base nele é possível identificar algumas tendências:
 
