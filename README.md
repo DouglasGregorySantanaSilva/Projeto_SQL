@@ -10,11 +10,11 @@ Todas as análises foram realizadas utilizando consultas SQL para processar, man
 
 ## Tecnologias Utilizadas:
 
-* PostgreSQL (Para armazenamento e manipulação de dados)
 * SQL (Para extração, transformação e análise de dados)
-* Git & GitHub (Para versionamento e compartilhamento do projeto)
+* PostgreSQL (Para armazenamento e manipulação de dados)
+* Power BI (Para criar visualização de dados)
 * VS Code (Para desenvolvimento e execução das consultas SQL)
-* Power BI (Para criar visualização para os dados)
+* Git & GitHub (Para versionamento e compartilhamento do projeto)
 
 ## Principais Análises
 
@@ -30,7 +30,7 @@ Com esse dashboard sobre os 10 empregos mais bem remunerados é possível extrai
 
 ### Habilidades em Demanda
 
-[Acesse o relatório no Power BI](https://app.powerbi.com/groups/me/reports/c700984f-9d7d-4a9a-b87a-c63218afeb99/579eca483b7218ca0bab?experience=power-bi)
+[Acesse o relatório no Power BI](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL/blob/main/Dashboards%20Power%20BI/Incid%C3%AAncia_Das_Habilidades.pbix)
 
 Para facilitar o entendimento acerca da distribuição da incidência das habilidades requisitadas pelas vagas foi elaborado este gráfico. Com base nele é possível identificar algumas tendências:
 
@@ -40,7 +40,7 @@ Para facilitar o entendimento acerca da distribuição da incidência das habili
 
 ### Habilidades Isoladas Mais Bem Remuneradas
 
-![Image](https://github.com/user-attachments/assets/d4b92d21-4e72-47d5-8053-68629479199e)
+[Acesse o relatório no Power BI](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL/blob/main/Dashboards%20Power%20BI/Habilidades_Isoladas.pbix)
 
 De acordo com as informações presentes no gráfico, é possível inferir que:
 
@@ -50,24 +50,11 @@ De acordo com as informações presentes no gráfico, é possível inferir que:
 
 ### Habilidades Mais Bem Remuneradas por Vaga
 
-![Image](https://github.com/user-attachments/assets/0f4acaea-610b-4865-a6f1-2d5a4f7d532e)
+[Acesse o relatório no Power BI](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL/blob/main/Dashboards%20Power%20BI/Conjunto_de_Habilidades.pbix)
 
-* 
 
-* Habilidades Otimizadas
 
-## Como Usar
+### Habilidades Otimizadas
 
-Clone este repositório:
-* bash
-* Copiar
-* Editar
-* git clone https://github.com/seu-usuario/nome-do-repositorio.git
-* Navegue até a pasta com as consultas SQL:
-* md
-* Copiar
-* Editar
-* [Acesse as consultas realizadas nesse projeto](Projeto_SQL/)
-* Execute as consultas no PostgreSQL utilizando VS Code ou outro ambiente compatível.
-* Este projeto fornece informações valiosas para quem deseja entender quais habilidades são mais valorizadas e quais oportunidades oferecem melhores salários na área de dados.
+[Acesse o relatório no Power BI](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL/blob/main/Dashboards%20Power%20BI/Habilidades_Otimizadas.pbix)
 
