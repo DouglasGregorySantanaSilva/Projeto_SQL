@@ -64,3 +64,13 @@ A análise deste dashboard revela que:
 A partir das informações analisadas, é possível concluir que:  
 
 * A demanda por **habilidades relacionadas à computação em nuvem e bancos de dados não estruturados** está crescendo significativamente, impulsionada pela ascensão do **Big Data**
+
+## Conclusão  
+
+Este projeto de análise de dados sobre o mercado de trabalho para **Analistas de Dados** revelou insights valiosos sobre as tendências da área em 2023. A partir das consultas SQL e da visualização dos dados no Power BI, foi possível identificar os empregos mais bem remunerados, as habilidades mais demandadas e as competências que oferecem as melhores oportunidades salariais.  
+
+Ficou evidente que **habilidades técnicas bem direcionadas podem impactar diretamente as oportunidades de carreira e remuneração**. Linguagens de programação, bancos de dados e ferramentas de visualização continuam sendo requisitos essenciais para profissionais da área. Além disso, a crescente demanda por **computação em nuvem** e **Big Data** sugere que o mercado está se direcionando para soluções mais escaláveis e eficientes.  
+
+Ao compreender essas tendências, profissionais de dados podem tomar decisões estratégicas sobre quais habilidades desenvolver e quais oportunidades buscar. Este estudo também pode ser um recurso útil para empresas e recrutadores, ajudando-os a compreender as exigências do mercado e a atrair talentos qualificados.  
+
+Com isso, este projeto reforça a importância da **análise de dados como ferramenta para tomada de decisão**, tanto para profissionais em busca de crescimento quanto para organizações que desejam se manter competitivas em um cenário dinâmico e inovador.
