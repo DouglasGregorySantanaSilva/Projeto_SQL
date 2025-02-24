@@ -38,7 +38,7 @@ Para facilitar o entendimento da distribuição das habilidades mais requisitada
 * **Power BI e Tableau** são as ferramentas de visualização mais populares, representando **68% do mercado** nessa categoria.  
 * Embora o **Excel** não seja um gerenciador de banco de dados, ele continua sendo uma solução eficiente para organização de dados em empresas de pequeno e médio porte.  
 
-### Habilidades Isoladas Mais Bem Remuneradas  
+### Habilidades Mais Bem Remuneradas  
 
 [Acesse o relatório](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL/blob/main/Dashboards%20Power%20BI/Habilidades_Isoladas.pbix)  
 
@@ -48,7 +48,7 @@ Com base nos dados do gráfico, é possível inferir que:
 * A presença de **Yarn, Dplyr e FastAPI** indica a necessidade crescente de maior eficiência no processamento de dados, especialmente em ambientes baseados em nuvem.  
 * **Golang** aparece entre as habilidades mais bem remuneradas, sendo amplamente utilizada em infraestrutura de computação em nuvem devido à sua **escalabilidade e alto desempenho**.  
 
-### Habilidades Mais Bem Remuneradas por Vaga  
+### Conjunto de Habilidades mais requisitadas por vaga  
 
 [Acesse o relatório](https://github.com/DouglasGregorySantanaSilva/Projeto_SQL/blob/main/Dashboards%20Power%20BI/Conjunto_de_Habilidades.pbix)  
 
